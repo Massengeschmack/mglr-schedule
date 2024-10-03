@@ -1,10 +1,18 @@
-# Massengeschmack Live Reminder
+# MGLR Schedule
 
-**Massengeschmack Live Reminder**, kurz MGLR, ist ein kleines Hobbyprojekt, welches dir hilft, keine bevorstehenden Livestreams mehr zu verpassen. Der Service checkt regelmäßig, ob ein neuer Livestream angekündigt wurde, und schickt dir direkt eine E-Mail, wenn es soweit ist. Du kannst dich ganz einfach mit deiner E-Mail-Adresse anmelden, um stündlich Updates zu erhalten – so bleibst du immer auf dem Laufenden.
+## Lizenz
 
-**Funktionen:**
-- **Anmeldung**: Trage einfach deine E-Mail-Adresse ein, um immer die neuesten Infos zu erhalten.
-- **Stündliche Updates**: Der Service prüft jede Stunde, ob ein neuer Livestream angekündigt wurde.
-- **E-Mail-Erinnerungen**: Sobald ein neuer Livestream angekündigt ist, bekommst du zeitnah eine E-Mail-Benachrichtigung.
+Copyright © 2024  Butterfly <massengeschmack@freenet.de>
 
-Dieses Projekt ist für alle Massengeschmack-Fans, die keinen Livestream mehr verpassen wollen, ohne ständig nachschauen zu müssen.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
